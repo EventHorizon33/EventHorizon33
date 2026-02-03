@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EventHorizon33
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning Basics
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently learning DSA and Machine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
