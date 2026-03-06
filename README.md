@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EventHorizon33
+- 👋 Hi, I’m Vaibhav Sharma
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning DSA and Machine Learning
 - 💞️ I’m looking to collaborate on projects
